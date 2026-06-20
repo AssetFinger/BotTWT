@@ -14,7 +14,7 @@ Bot CLI berbasis Python menggunakan **Playwright** untuk mengotomatisasi beberap
 
 Ikuti langkah-langkah di bawah ini untuk menyiapkan bot di komputer Anda (sangat ramah untuk pengguna Warnet/VPS):
 
-### 1. Pastikan Python Sudah Terinstal
+1. Pastikan Python Sudah Terinstal
 Buka Command Prompt (CMD) atau Terminal, lalu cek versi Python Anda:
 ```bash
 python --version
